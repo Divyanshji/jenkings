@@ -14,7 +14,7 @@ jenkings{
         }
         stage('Deploy') {
             steps {
-                echo 'still Deploying....'
+                echo 'Deploying....'
             }
         }
     }
