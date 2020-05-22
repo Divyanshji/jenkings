@@ -10,7 +10,7 @@ public class TestConnect {
 
 private static final String POST_URL = "https://api.boomi.com/api/rest/v1/trainingdivyanshjain-HIGX0E/DeployedPackage/";
 
-private static final String POST_PARAMS = "{\n" + "\"environmentId\" : \"56cb69d9-bc3b-459d-9594-6291aa0339dc\",\r\n" + "\"packageId\" : \"056f5082-e96f-46d1-9268-49d19d45614e\",\r\n" + "\"notes\" : \"Package Deployed\"" + "\n}";
+private static final String POST_PARAMS = "{\n" + "\"environmentId\" : \"4fba0164-e590-4dc4-9451-bb59e9bc6692\",\r\n" + "\"packageId\" : \"056f5082-e96f-46d1-9268-49d19d45614e\",\r\n" + "\"notes\" : \"Package Deployed\"" + "\n}";
 
 public static void main(String[] args) throws IOException {
 
