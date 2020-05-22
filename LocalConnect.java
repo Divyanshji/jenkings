@@ -10,7 +10,7 @@ public class LocalConnect {
 
 private static final String POST_URL = "https://api.boomi.com/api/rest/v1/trainingdivyanshjain-HIGX0E/DeployedPackage/";
 
-private static final String POST_PARAMS = "{\n" + "\"environmentId\" : \"69ede2f7-2873-4169-9848-dded2a94cae3\",\r\n" + "\"packageId\" : \"056f5082-e96f-46d1-9268-49d19d45614e\",\r\n" + "\"notes\" : \"Package Deployed in Test Atom\"" + "\n}";
+private static final String POST_PARAMS = "{\n" + "\"environmentId\" : \"69ede2f7-2873-4169-9848-dded2a94cae3\",\r\n" + "\"packageId\" : \"056f5082-e96f-46d1-9268-49d19d45614e\",\r\n" + "\"notes\" : \"Package Deployed in Local Atom\"" + "\n}";
 
 public static void main(String[] args) throws IOException {
 
